@@ -1,7 +1,7 @@
 # SAMHDA
 Substance Abuse and Mental Health Data Archive (SAMHDA) data visualization
 
-The 'main.ipynb' program imports the Treatment Episode Data Set: Discharges (TEDS-D) from the Substance Abuse and Mental Health Data Archive (SAMHDA): a collection of data about admissions to and discharges from American substance abuse treatment centers documetented in 2014 (the last year on record). The script then makes graphs to visualize various treatment measures collected.
+The 'final.ipynb' program imports the Treatment Episode Data Set: Discharges (TEDS-D) from the Substance Abuse and Mental Health Data Archive (SAMHDA): a collection of data about admissions to and discharges from American substance abuse treatment centers documetented in 2014 (the last year on record). The script then makes graphs to visualize various treatment measures collected.
 
 Not all treatment episodes were documented: only admissions/discharges to state-licensed or certified treatment centers are included, and some states only report publicly-funded treatment.
 
